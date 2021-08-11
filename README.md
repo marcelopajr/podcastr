@@ -20,6 +20,7 @@ Podcastr is a podcast application with content from Rocketseat's "Faladev".
 
 - [Next.js](https://nextjs.org/)
 - [TypeScript](https://www.typescriptlang.org/)
+- [Sass](https://sass-lang.com/)
 
 ## 😊 How to run
 
